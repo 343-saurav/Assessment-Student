@@ -1,0 +1,20 @@
+{
+  "student": [
+    {
+      "name": "saurav",
+      "dob": "2024-01-12",
+      "gender": "Male",
+      "address": "b-22 sector j",
+      "number": "1234567890",
+      "id": 1
+    },
+    {
+      "name": "chirag",
+      "dob": "2024-01-27",
+      "gender": "Female",
+      "address": "b-22 sector j",
+      "number": "234567890",
+      "id": 2
+    }
+  ]
+}
